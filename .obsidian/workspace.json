@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "etst/jhdhjd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "jhdhjd"
             }
           }
         ]
@@ -167,8 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18806091b68eeb06",
+  "active": "0266cf8f5cfdae70",
   "lastOpenFiles": [
+    "README.md",
+    "etst/jhdhjd.md",
+    "etst",
     "AlQuranAlKareem/1. Al-Fatihah/Only Ruku ➤ 1-7.md",
     "AlQuranAlKareem/1. Al-Fatihah/Introduction.md",
     "AlQuranAlKareem/1. Al-Fatihah/Introduction1.pdf",
@@ -184,7 +187,6 @@
     "AlQuranAlKareem/2. Al-Baqarah",
     "AlQuranAlKareem",
     "AlQuranAlKareem/README.md",
-    "README.md",
     "dasdas/dasdasdasd.md",
     "dasdas",
     "AlQuranAlKareem",
