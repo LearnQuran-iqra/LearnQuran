@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etst/jhdhjd.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jhdhjd"
+              "title": "README"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "0266cf8f5cfdae70",
   "lastOpenFiles": [
+    "Welcome.md",
     "README.md",
     "etst/jhdhjd.md",
     "etst",
@@ -189,7 +190,6 @@
     "AlQuranAlKareem/README.md",
     "dasdas/dasdasdasd.md",
     "dasdas",
-    "AlQuranAlKareem",
-    "Welcome.md"
+    "AlQuranAlKareem"
   ]
 }
